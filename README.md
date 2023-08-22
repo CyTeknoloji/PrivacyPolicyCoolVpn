@@ -1,4 +1,4 @@
-# PrivacyPolicyCoolVpn
+# Privacy Policy Cool Vpn
 
 **Privacy Policy**
 **App Name : Cool Vpn**
